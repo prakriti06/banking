@@ -1,2 +1,2 @@
 # banking
-online transaction and basic bank details
+Online transaction and Basic bank details.
